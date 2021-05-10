@@ -14,3 +14,7 @@
 2. spring-batch
 3. MongoDB
 4. GeoTools
+
+## 규칙
+
+- commit log 는 [angular style](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)을 따른다.

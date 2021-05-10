@@ -1,3 +1,5 @@
 rootProject.name = 'spatial'
 include 'commons'
+include 'api'
+include 'batch'
 
